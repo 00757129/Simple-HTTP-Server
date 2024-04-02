@@ -2,10 +2,14 @@
 這是一個基於線程池的，簡單的Web Server專案實作。
 
 ## 編譯運行
-`git clone https://github.com/Liu-huaian/Simple-HTTP-Server`
+`git clone https://github.com/00757129/Simple-HTTP-Server`
+
   `cd Simple-HTTP-Server/bin`
+  
   `cmake ..`
+  
   `make`
+  
   `./main`
  
 ## 專案簡介
