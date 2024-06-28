@@ -1,5 +1,5 @@
 # Simple-HTTP-Server
-這是一個基於多執行緒的，簡單的Web Server專案實作。
+這是一個基於多執行緒的Web Server專案實作。
 
 ## 編譯運行
 `git clone https://github.com/00757129/Simple-HTTP-Server`
